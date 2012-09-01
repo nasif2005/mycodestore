@@ -1,0 +1,496 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////
+
+database connection
+http://www.youtube.com/watch?v=AUWGmCCHT6w
+ASP.NET
+learn how to install wamp joomla make basics website part 2
+http://www.codeproject.com/Articles/31017/Beginner-s-Walk-Web-Development
+------------------------------------------------------------------------------
+
+http://www.ieee-icc.org/2013/program.html
+
+https://www.zooniverse.org/account
+http://www.study-in.de/en/community/chat/--19032/
+
+job
+http://plusline.de/plusline-ag/jobs/praktikumpraxissemester.html
+zend, yii, ajax
+
+http://www.mp3va.com/charlie-sneller-colors-of-fall-r67021
+suluto
+nuance
+
+http://tryruby.org/levels/2/challenges/2
+http://www.railsforzombies.org/
+http://rubular.com/
+http://www.rubycentral.com/pickaxe/intro.html
+http://www.troubleshooters.com/codecorn/ruby/basictutorial.htm#_Hello_World
+http://pastebin.com/C3weqD4u
+
+https://github.com/saasbook/hw2_rottenpotatoes
+http://gembundler.com/
+http://rubygems.org/pages/download
+http://www.eclipse.org/gmt/gems/download.php
+
+
+http://screencast.saasbook.info/
+
+open "s_nmusli@opi.e-technik.uni-ulm.de" 22
+Designing a testbed for broadcast opportunistic wireless data dissemination protocols
+
+134.60.105.82
+255.255.255.0
+134.60.105.1
+
+Remember that it's not LaTeX that generates the BBL, it's BibTeX.
+
+Run LaTeX to generate the AUX file. It adds a line every time it finds a cite.
+Then run BibTeX (executable: bibtex) to generate the BBL (from the AUX lines).
+Then run LaTeX again, which will include the BBL.
+Then run LaTeX again to make any updates corresponding to including the possibly massive BBL (e.g., updating your final page count on each of your pages, updating your ToC, etc.).
+
+Studentenwohnheim Bischof-Sproll-Haus
+Zimmer Nummer: 912
+Heidenheimer Straße 82
+89075 Ulm
+http://1.hidemyass.com/ip-1/encoded/Oi8vd3d3LmJyYXZvdHViZS5uZXQvdmlkZW9zL2NsZWFuaW5nLXVwLWEtZGlydHktYW5kLW5hdWdodHktc2V4LXNsYXZlLWluLWR1bmdlb24vP3Byb21vaWQ9MTI1OQ%3D%3D
+
+http://1.hidemyass.com/ip-1/encoded/Oi8vd3d3LnRpYXZhc3R1YmUuY29tL3ZpZGVvcy81MjIvMTA0MjA1Ny9jdXRlLWYtc2xhdmUtZ2FnZ2VkLWJvbmRhZ2VkLWxlemRvbS1tb3ZpZXMucGhw&f=norefer
+
+offer:
+http://www.wg-gesucht.de/en/wg-zimmer-in-Ulm-Eselsberg.3077038.html
+http://www.wg-gesucht.de/en/wg-zimmer-in-Ulm-Soeflingen.1016904.html
+http://www.wg-gesucht.de/en/wg-zimmer-in-Ulm-Boefingen.2433687.html
+
+
+http://www.studenten-wg.de/
+ www.wg-gesucht.de/ 
+
+http://5.hidemyass.com/ip-1/encoded/Oi8vZ29iZHNtLmNvbS92aWRlb3MvaGVyLWRyZWFtcy1jYW1lLXRydWUtc2hlLWhhcy1iZWVuLWdhbmdiYW5nZWQtYnktZml2ZS1wcm8tZnVja2Vycy8%3D
+
+http://1.hidemyass.com/ip-4/encoded/Oi8vd3d3LmJkc21saWJyYXJ5LmNvbS9zdG9yaWVzLw%3D%3D
+
+http://en.wikipedia.org/wiki/Observer_pattern
+http://www.javaworld.com/javaworld/javaqa/2001-05/04-qa-0525-observer.html?page=2
+http://www.oodesign.com/observer-pattern.html
+
+
+http://visualcase.com/tutorials/uml-tutorial.htm
+
+
+http://www.telegraph.co.uk/news/picturegalleries/howaboutthat/8909722/Awkward-family-pet-photos-celebrating-the-special-bond-between-people-and-their-pets.html?image=18
+
+356216043488107
+Model:	P990
+Manufacturer:	LG ELECTRONICS
+
+http://www.youtube.com/watch?v=rlsmJFO_aRg&feature=fvwrel
+
+how to connect java database http://www.youtube.com/watch?v=yTVJMCBuqRU
+
+ivor horton's beginning java
+
+
+Muhammad: user name : s_mafrid
+10:42 PM 
+password: 4Wx7AqmX
+
+plane wave animation
+
+http://ralphmuehleisen.com/animations.html
+
+...........good website for logitudinal wave................... 
+http://www.kettering.edu/physics/drussell/Demos/waves/wavemotion.html
+
+
+
+
+My address
+---------------
+NASIF MUSLIM
+Zi. No.- F203, 
+FERDINAND-SAUERBRUCH-WEG 3
+89075 ULM
+Tel:+4917632882138
+Email: nasif2005@gmail.com
+
+
+
+Muhammad: user name : s_mafrid
+10:42 PM 
+password: 4Wx7AqmX
+StepStone-Jobagent info
+
+http://www.uni-ulm.de/studium/studienorganisation/ansprechpartner-im-studiensekretariat.html
+
+
+
+
+https://www.sparkasse-ulm.de/privatkunden/online_und_telefon/online_banking_mit_sms_tan/vorteile/index.php?n=%2Fprivatkunden%2Fonline_und_telefon%2Fonline_banking_sms_tan%2Fvorteile%2F&IFLBSERVERID=IF@@011@@IF
+
+
+
+http://www.hk-ulm.de/html/seiten/webcam;648,de.html
+
+
+http://www.howtogermany.com/pages/postal.html
+
+
+https://bankingportal.sparkasse-ulm.de/portal/portal/StartenIPSTANDARD
+
+
+http://www.ee.iitm.ac.in/~andrew/videolectures/EE512/
+
+
+
+http://www.movie-locations.com/movies/b/blowup.html
+
+
+
+http://3.hidemyass.com/ip-1/encoded/Oi8vd3d3LmJvbmRhZ2V0dWJlLnR2L3NleHktcHN5Y2hvLWphZWx5bi1mb3gtdGllZC1hbmQtZnVja2VkX3Y0NTQx
+
+http://fme.easycruit.com
+
+
+
+RR 970940013DE
+
+
+8949226090673040944
+
+Aktivierung Ihrer SIM-Karte
+Wir bitten Sie um Entschuldigung, dass derzeit eine Aktivierung Ihrer SIM-Karte aus technischen Gründen nicht möglich ist.
+Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.
+
+
+
+
+bitte halten sie zur 
+oben links in diesem schreiben
+kundenkennzahl auf ihrem mobilfunkvertrag
+
+sie haben zwei moglich
+
+legen sie danach die neue simkarte in Ihr handy ein und schalten sie dieser ein. sollten sie die sim karte 
+nach der freischaltung zugeschickt
+
+
+
+
+
+
+
+
+1. PERMANENT ADDRESS problem 21/ecor 2/e
+
+2.POLICE STATION / DISTRICT
+
+
+
+92025
+
+
+karim elaharabasi elsharabasi
+
+
+.45 cent
+9.25 8.89
+
+cotton
+
+http://www.bbc.co.uk/news/world-south-asia-12831903
+
+
+
+
+
+hard decision is appropriate for BSC and uses hamming metric for decision.before using this metric,recived signal must convert to binary form (0,1).
+soft decision can be used for about any channel and it uses eucliden metric for decision.here recived singnal is used as it is.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+peter file
+
+
+admin login.asp
+
+
+1'or''1'='1
+
+purland
+
+Rinderhackfleisch
+ 
+zum Braten, vielseitig verwendbar
+
+
+http://94.125.79.44/view/index.shtml
+
+Roni
+C 202
+
+
+
+http://www.youtube.com/watch?v=zbYqIeJw3wE&feature=related
+
+
+
+
+http://en.wikipedia.org/wiki/Taylor_series
+
+http://en.wikipedia.org/wiki/LC_circuit#Applications_of_resonance_effect
+
+
+http://www.electronics-tutorials.com/basics/resonance.htm
+
+http://hyperphysics.phy-astr.gsu.edu/hbase/electric/serres.html#c2
+
+
+
+
+
+
+
+https://centre.uni-ulm.de/
+
+
+LTE
+http://www.radio-electronics.com/info/cellulartelecomms/lte-long-term-evolution/3g-lte-basics.php
+
+
+
+Difference Between FDM and FDMA
+
+http://www.differencebetween.net/technology/difference-between-fdm-and-fdma/
+
+Signal spreading
+
+http://www.eetimes.com/design/communications-design/4008962/Tutorial-on-Spread-Spectrum-Technology
+
+http://www.bee.net/mhendry/vrml/library/cdma/cdma.htm
+
+
+
+MIMO
+http://www.radio-electronics.com/info/rf-technology-design/mimo/multiple-input-multiple-output-technology-tutorial.php
+
+CDMA
+http://www.umtsworld.com/technology/cdmabasics.htm
+
+
+
+
+
+
+
+
+
+
+
+http://www.uni-ulm.de/in/omi/lehre/
+
+
+
+http://web.ncf.ca/ch865/englishdescr/GaussSphere.html
+
+http://www.ux1.eiu.edu/~cfadd/1360/24Gauss/Flux.html
+
+http://www.audioholics.com/education/cables/physics-tutorial-1-coulombs-law-electrostatics
+
+
+http://www.ux1.eiu.edu/~cfadd/1360/24Gauss/Examples.html
+
+
+Hidden markov model
+http://www.comp.leeds.ac.uk/roger/HiddenMarkovModels/html_dev/main.html
+
+http://en.wikipedia.org/wiki/Hidden_Markov_model
+
+
+CE address
+------------------
+
+http://www.complextoreal.com/tutorial.htm
+
+
+Channel code
+-----------------
+http://people.csail.mit.edu/madhu/coding/ibm/
+
+http://www.mcs.csueastbay.edu/~malek/TeX/
+
+
+hidden markov model
+---------------------
+http://www.igi.tugraz.at/lehre/EW/tutorials/HMM/
+
+http://www.igi.tugraz.at/lehre/EW/tutorials/HMM/HMM.pdf
+
+
+Human Voice
+-------------------
+http://en.wikipedia.org/wiki/Spectrogram
+
+http://en.wikipedia.org/wiki/Human_voice
+
+books
+------------------
+http://linkssharing.blogspot.com/
+
+
+https://www.palmbux.com   green2000   edykjohb
+http://www.hybux.com/?
+http://www.upbux.com/
+http://www.theclickers.net/ptc/
+http://www.tropicalbux.com/
+http://www.bux.to/index.php
+http://10bux.net/index.php
+
+http://adptc.com/acc?l=l   green2000  7D4-0^5OP20spiH
+
+http://www.platine-bux.com/pages/clickads
+
+http://www.ahbux.com/pages/clickads
+
+http://www.neu-ulm.de/MOBOTIX/webcam-nu21.htm
+
+http://www.youtube.com/watch?v=mtI7fqYvrPk&feature=player_embedded
+
+
+
+chef
+-ammu
+
+schule
+-dhanmondi
+
+Ray: 017676240873
+
+microwave engineering passive circuits
+-peter a. rizzi
+
+http://www.scanwith.com/download/NOD32.htm
+
+
+http://www.youtube.com/watch?v=VzGnb2K4RGQ
+
+8794901
+
+
+
+http://www.dsplog.com/2009/01/04/convolutional-code/
+
+http://www.complextoreal.com/tutorial.htm
+
+
+http://www.google.com/imgres?imgurl=http://a7.vox.com/6a011017b0dbd3860e0110166823ef860c-500pi&imgrefurl=http://shinobi73.vox.com/library/photo/6a011017b0dbd3860e0110166823ef860c.html&usg=__1_XcrawdT5w2oPsLHfAdOiBeyuI=&h=500&w=333&sz=33&hl=en&start=119&itbs=1&tbnid=Ikj_MqfPLsFVdM:&tbnh=130&tbnw=87&prev=/images%3Fq%3DStrappado%26start%3D100%26hl%3Den%26safe%3Doff%26sa%3DN%26gbv%3D2%26ndsp%3D20%26tbs%3Disch:1
+
+
+Your New Email Address : yourid@student.aiub.edu 
+Your Default Password : Pa$$w0rd 
+
+
+http://www.12voip.com/en/voip-in.html
+
+job
+---
+http://www.fortiss.org/en/career/research-students.html
+------------------------------------------------------------------
+Die Adhoc2 Applikation ist so aufgebaut, dass es zwei Komponenten gibt. Eine Komponente ist der Service, hier Adhoc2 Service genannt, die andere ist die Anwenderseite, die als Adhoc2
+
+HMI (Human Machine Interface) bezeichnet wird.
+Der Adhoc2-Service hat folgende Aufgaben:
+ Pakete empfangen
+ Pakete weiterleiten
+ eigene Pakete versenden
+ Schnittstellenservice zu Adhoc2 HMI
+ Verwaltung Paketpool Service
+Die Adhoc2 HMI hat die wesentlichen Aufgaben:
+ Bereitstellen der gra?schen Benutzerober?äche
+ angekommene Pakete verarbeiten
+ Pakete erzeugen
+ Schnittstellenservice zu Adhoc2 Service
+ Verwaltung Paketpool der HMI
+Die HMI ist in 3 Units aufgeteilt. Diese sind:
+ Voice
+ Log
+ Map
+-------------------------------------
+Hi Fakhar
+
+To get your dream job, you need to interview really well. But interviewing is not something that most people are naturally good at. So to help you with it, read these...
+
+5 Tips for Job Interviews
+
+Start by doing some prep!
+
+Most people fail to prepare for their job interview. As well as researching the company, you need to find out who is interviewing you and then learn about them personally (from their LinkedIn or other profiles on the web). Then you will be able to relate to them in the interview, mentioning things you have in common to try and build an affinity with them. After all-people love people who have similar interests!
+
+Next, research the most common interview questions and rehearse your answers to them. Chances are you'll be asked questions like "so tell us about yourself" and "what are your strengths and weaknesses" so you need to have your answers to these questions well rehearsed if you're going to win them over!
+
+The kick-off
+
+On the day, arrive 15 minutes early and sit in the reception area. Focus on nothing but your breathing. Relax your entire body and ignore what's going on around you.
+
+When you're called into the room, start with a strong hand shake. Look them in the eye and have your body language front facing. Stand tall and look confident. Be very careful what you say in the first 2 minutes as they are crucial. You'll be judged on your first impression so if you blab on about the traffic, then they could come to the wrong conclusion prematurely. So start out cautiously but positively, complimenting them on their premise and your experience so far.
+
+Let them drive
+
+Don't jump straight into conversation. Instead, let them organize themselves and get settled in first. Then let them drive the meeting. If there is a pause or a break in conversation, don't fill it. They are simply thinking about the answer to the last question or how to kick off the next question. They need this “thinking time” if they are to come to the right conclusion.
+
+Answering questions
+
+When you're asked a question, always stop for 2-3 seconds before answering. This gives you time to gather your thoughts so you can answer well. Keep your answers short and to the point. Quote examples and reference people who can back you up. Give authority to your answers by quoting what you've done in the past and what you’ve learned along the way. They need to know that not only can you "do the job" but that "you've been there and done it before".
+
+The big finale
+
+You need a confident finish at the end of the interview. So tell them how impressed you are with the company and how excited you are about the role. Briefly summarize how you can add value to the role and why you're the best candidate. Tell them you're really excited about it all and that you already have ideas for how you’ll achieve the targets set.
+
+So it's really all about confidence and showing them that you're the best person for the role. Of course, to be the best candidate you need to be using the best toolset for managing projects, so sign up to ProjectManager.com and get your first 30 days free!
+-------------------------------------------------------
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+http://www.vogella.de/articles/DesignPatternObserver/article.html
+
+http://www.all-onlinetv.com/2011/04/watch-live-all-sports-sky-eurosport-fox.html 
+
+http://skp.mvps.org/mptools.htm
+
+total number lines/classes
+http://nexnet.wordpress.com/2011/03/30/count-lines-of-code-and-number-of-classes-in-eclipse-projects/
+
+http://www.javaworld.com/javaworld/jw-04-2002/jw-0426-designpatterns.html
+
+strategy pattern
+
+
+
+learning android download
+//////////////////////////////////////
+http://www.cse.iitd.ernet.in/~cs5090250/Learning%20Android.pdf
